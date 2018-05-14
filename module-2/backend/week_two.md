@@ -81,7 +81,10 @@ end
 1. Name your five favorite ActiveRecord methods (i.e. methods your models inherit from ActiveRecord) and describe what they do.
 
     find -  allows you to find attributes from the object.
-    joins -
+    joins - merges relationships with tables.
+    create - creates a new model
+    update - modifies an existing model
+    delete - destroys data from the DB.
 
 2. Name your three favorite ActiveRecord rake tasks and describe what they do.
 
@@ -133,12 +136,10 @@ end
 
 ### Self Assessment:
 Choose One:
-* I was able to answer every question without relying on outside resources
+
 * I was able to answer most questions independently, but utilized outside resources for a few
-* I was able to answer a few questions independently, but relied heavily on outside resources
+
 
 Choose One:
-* I feel confident about the content presented this week
+
 * I feel comfortable with the content presented this week
-* I feel overwhelmed by the content presented this week
-* I feel quite lost by the content presented this week
