@@ -95,4 +95,4 @@ Choose One:
 
 Choose One:
 
-* I feel comfortable with the content presented this week
+* I feel comfortable/but a bit lost with the content presented this week
